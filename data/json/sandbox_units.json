@@ -1,0 +1,85 @@
+{
+    "unit_arr": [
+        {
+            "damage": 12,
+            "hp": 1000,
+            "position": {
+                "x": 13,
+                "y": 8
+            },
+            "unit_type": 5
+        },
+        {
+            "damage": 12,
+            "hp": 1000,
+            "position": {
+                "x": 13,
+                "y": 7
+            },
+            "unit_type": 5
+        },
+        {
+            "damage": 30,
+            "hp": 70,
+            "position": {
+                "x": 13,
+                "y": 6
+            },
+            "unit_type": 7
+        },
+        {
+            "damage": 30,
+            "hp": 70,
+            "position": {
+                "x": 13,
+                "y": 5
+            },
+            "unit_type": 7
+        },
+        {
+            "damage": 5,
+            "hp": 100,
+            "position": {
+                "x": 13,
+                "y": 4
+            },
+            "unit_type": 8
+        },
+        {
+            "damage": 5,
+            "hp": 100,
+            "position": {
+                "x": 13,
+                "y": 3
+            },
+            "unit_type": 8
+        },
+        {
+            "damage": 5,
+            "hp": 100,
+            "position": {
+                "x": 13,
+                "y": 2
+            },
+            "unit_type": 8
+        },
+        {
+            "damage": 5,
+            "hp": 100,
+            "position": {
+                "x": 13,
+                "y": 1
+            },
+            "unit_type": 8
+        },
+        {
+            "damage": 12,
+            "hp": 190,
+            "position": {
+                "x": 10,
+                "y": 5
+            },
+            "unit_type": 6
+        }
+    ]
+}

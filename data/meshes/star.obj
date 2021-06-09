@@ -1,0 +1,88 @@
+# Data were obtained via the METFEM2D software from the www.taketechease.com.
+# Author: Ilona Dominika Kosinska
+# Date: Sat Apr 10 03:08:01 CEST 2021
+#The initial mesh:
+5.0 0.0
+1.5450849718747373 4.755282581475767
+-4.045084971874736 2.9389262614623664
+-4.045084971874738 -2.938926261462365
+1.5450849718747361 -4.755282581475768
+-2.220446049250313E-16 0.0
+0 1 5
+1 2 5
+2 3 5
+3 4 5
+0 4 5
+#tB:
+5
+0
+1
+2
+3
+4
+#The mesh has been created with the following settings:
+#h0
+0.3
+#TOL
+0.2
+#No. Divisions
+20
+#Metropolis Interior Force
+set in the program
+#Metropolis Edge Force
+set in the program
+#Temperature
+0.4
+#Mesh properties:
+#Nodes Number:
+11
+#Elements Number:
+10
+#Edge Mean Length:
+3,99 +/- 0,84
+#Element Mean Area:
+5,944 +/- 0,000
+#The Central Node Coordinates:
+0,00; 0,00
+#Used optimization algorithm:
+#Metropolis algorithm - edge
+#Metropolis algorithm - interior
+#edge length energy
+#The final mesh:
+5.0 0.0
+1.5450849718747373 4.755282581475767
+-4.045084971874736 2.9389262614623664
+-4.045084971874738 -2.938926261462365
+1.5450849718747361 -4.755282581475768
+5.551115123125783E-15 5.10702591327572E-15
+3.272542485937369 2.377641290737883
+-1.2500000000000004 3.8471044214690666
+-4.045084971874737 3.557339092919176E-16
+-1.2500000000000027 -3.847104421469066
+3.2725424859373673 -2.3776412907378854
+0 5 6
+1 5 6
+1 5 7
+2 5 7
+2 5 8
+3 5 8
+3 5 9
+4 5 9
+0 5 10
+4 5 10
+#tBF:
+5
+0
+1
+2
+3
+4
+#EdgeNodes:
+6 0
+7 1
+8 2
+9 3
+10 4
+#InteriorNodes:
+5
+#

@@ -1,0 +1,178 @@
+{
+    "human_terminator": {
+        "attack": {
+            "texture": "unit/human_terminator_attack.png",
+            "number_of_frame": 12,
+            "shader": "animation_textured"
+        },
+        "stand": {
+            "texture": "unit/human_terminator_stand.png",
+            "number_of_frame": 12,
+            "shader": "animation_textured"
+        },
+        "walk": {
+            "texture": "unit/human_terminator_walk.png",
+            "number_of_frame": 15,
+            "shader": "animation_textured"
+        },
+        "die": {
+            "texture": "unit/explosion.png",
+            "number_of_frame": 12,
+            "shader": "animation_textured"
+        }
+    },
+    "human_monitor": {
+        "attack": {
+            "texture": "unit/human_monitor_attack.png",
+            "number_of_frame": 24,
+            "shader": "animation_textured"
+        },
+        "stand": {
+            "texture": "unit/human_monitor_stand.png",
+            "number_of_frame": 12,
+            "shader": "animation_textured"
+        },
+        "walk": {
+            "texture": "unit/human_monitor_walk.png",
+            "number_of_frame": 12,
+            "shader": "animation_textured"
+        },
+        "die": {
+            "texture": "unit/explosion.png",
+            "number_of_frame": 12,
+            "shader": "animation_textured"
+        }
+    },
+    "human_archer":{
+        "attack": {
+            "texture": "unit/human_archer_attack.png",
+            "number_of_frame": 10,
+            "shader": "animation_textured"
+        },
+        "stand": {
+            "texture": "unit/human_archer_stand.png",
+            "number_of_frame": 12,
+            "shader": "animation_textured"
+        },
+        "walk": {
+            "texture": "unit/human_archer_walk.png",
+            "number_of_frame": 15,
+            "shader": "animation_textured"
+        },
+        "die": {
+            "texture": "unit/explosion.png",
+            "number_of_frame": 12,
+            "shader": "animation_textured"
+        }
+    },
+    "human_healer":{
+        "attack": {
+            "texture": "unit/human_healer_attack.png",
+            "number_of_frame": 12,
+            "shader": "animation_textured"
+        },
+        "stand": {
+            "texture": "unit/human_healer_stand.png",
+            "number_of_frame": 12,
+            "shader": "animation_textured"
+        },
+        "walk": {
+            "texture": "unit/human_healer_walk.png",
+            "number_of_frame": 15,
+            "shader": "animation_textured"
+        },
+        "die": {
+            "texture": "unit/explosion.png",
+            "number_of_frame": 12,
+            "shader": "animation_textured"
+        }
+    },
+    "ai_terminator":{
+        "attack": {
+            "texture": "unit/ai_terminator_attack.png",
+            "number_of_frame": 5,
+            "shader": "animation_textured"
+        },
+        "stand": {
+            "texture": "unit/ai_terminator_stand.png",
+            "number_of_frame": 1,
+            "shader": "textured"
+        },
+        "walk": {
+            "texture": "unit/ai_terminator_walk.png",
+            "number_of_frame": 8,
+            "shader": "animation_textured"
+        },
+        "die": {
+            "texture": "unit/explosion.png",
+            "number_of_frame": 1,
+            "shader": "textured"
+        }
+    },
+    "ai_monitor":{
+        "attack": {
+            "texture": "unit/ai_monitor_attack.png",
+            "number_of_frame": 5,
+            "shader": "animation_textured"
+        },
+        "stand": {
+            "texture": "unit/ai_monitor_stand.png",
+            "number_of_frame": 1,
+            "shader": "textured"
+        },
+        "walk": {
+            "texture": "unit/ai_monitor_walk.png",
+            "number_of_frame": 8,
+            "shader": "animation_textured"
+        },
+        "die": {
+            "texture": "unit/explosion.png",
+            "number_of_frame": 12,
+            "shader": "animation_textured"
+        }
+    },
+    "ai_archer":{
+        "attack": {
+            "texture": "unit/ai_archer_attack.png",
+            "number_of_frame": 5,
+            "shader": "animation_textured"
+        },
+        "stand": {
+            "texture": "unit/ai_archer_stand.png",
+            "number_of_frame": 5,
+            "shader": "animation_textured"
+        },
+        "walk": {
+            "texture": "unit/ai_archer_walk.png",
+            "number_of_frame": 5,
+            "shader": "animation_textured"
+        },
+        "die": {
+            "texture": "unit/explosion.png",
+            "number_of_frame": 12,
+            "shader": "animation_textured"
+        }
+    },
+    "ai_healer":{
+        "attack": {
+            "texture": "unit/ai_healer_attack.png",
+            "number_of_frame": 5,
+            "shader": "animation_textured"
+        },
+        "stand": {
+            "texture": "unit/ai_healer_stand.png",
+            "number_of_frame": 5,
+            "shader": "animation_textured"
+        },
+        "walk": {
+            "texture": "unit/ai_healer_walk.png",
+            "number_of_frame": 5,
+            "shader": "animation_textured"
+        },
+        "die": {
+            "texture": "unit/explosion.png",
+            "number_of_frame": 12,
+            "shader": "animation_textured"
+        }
+    }
+}

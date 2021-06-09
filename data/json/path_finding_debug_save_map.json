@@ -1,0 +1,1058 @@
+{
+  "gold": {
+    "player1": 1000,
+    "player2": 1000
+  },
+  "map": [
+    {
+      "position": {
+        "x": 1160.0,
+        "y": 760.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 1160.0,
+        "y": 680.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 1160.0,
+        "y": 600.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 1160.0,
+        "y": 520.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 1160.0,
+        "y": 440.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 1160.0,
+        "y": 360.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 1160.0,
+        "y": 280.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 1160.0,
+        "y": 200.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 1160.0,
+        "y": 120.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 1160.0,
+        "y": 40.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 1080.0,
+        "y": 760.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 1080.0,
+        "y": 680.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 1080.0,
+        "y": 600.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 1080.0,
+        "y": 520.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 1080.0,
+        "y": 440.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 1080.0,
+        "y": 360.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 1080.0,
+        "y": 280.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 1080.0,
+        "y": 200.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 1080.0,
+        "y": 120.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 1080.0,
+        "y": 40.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 1000.0,
+        "y": 760.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 1000.0,
+        "y": 680.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 1000.0,
+        "y": 600.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 1000.0,
+        "y": 520.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 1000.0,
+        "y": 440.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 1000.0,
+        "y": 360.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 1000.0,
+        "y": 280.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 1000.0,
+        "y": 200.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 1000.0,
+        "y": 120.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 1000.0,
+        "y": 40.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 920.0,
+        "y": 760.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 920.0,
+        "y": 680.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 920.0,
+        "y": 600.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 920.0,
+        "y": 520.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 920.0,
+        "y": 440.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 920.0,
+        "y": 360.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 920.0,
+        "y": 280.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 920.0,
+        "y": 200.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 920.0,
+        "y": 120.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 920.0,
+        "y": 40.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 840.0,
+        "y": 760.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 840.0,
+        "y": 680.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 840.0,
+        "y": 600.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 840.0,
+        "y": 520.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 840.0,
+        "y": 440.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 840.0,
+        "y": 360.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 840.0,
+        "y": 280.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 840.0,
+        "y": 200.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 840.0,
+        "y": 120.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 840.0,
+        "y": 40.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 760.0,
+        "y": 760.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 760.0,
+        "y": 680.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 760.0,
+        "y": 600.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 760.0,
+        "y": 520.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 760.0,
+        "y": 440.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 760.0,
+        "y": 360.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 760.0,
+        "y": 280.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 760.0,
+        "y": 200.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 760.0,
+        "y": 120.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 760.0,
+        "y": 40.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 680.0,
+        "y": 760.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 680.0,
+        "y": 680.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 680.0,
+        "y": 600.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 680.0,
+        "y": 520.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 680.0,
+        "y": 440.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 680.0,
+        "y": 360.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 680.0,
+        "y": 280.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 680.0,
+        "y": 200.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 680.0,
+        "y": 120.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 680.0,
+        "y": 40.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 600.0,
+        "y": 760.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 600.0,
+        "y": 680.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 600.0,
+        "y": 600.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 600.0,
+        "y": 520.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 600.0,
+        "y": 440.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 600.0,
+        "y": 360.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 600.0,
+        "y": 280.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 600.0,
+        "y": 200.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 600.0,
+        "y": 120.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 600.0,
+        "y": 40.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 520.0,
+        "y": 760.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 520.0,
+        "y": 680.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 520.0,
+        "y": 600.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 520.0,
+        "y": 520.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 520.0,
+        "y": 440.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 520.0,
+        "y": 360.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 520.0,
+        "y": 280.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 520.0,
+        "y": 200.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 520.0,
+        "y": 120.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 520.0,
+        "y": 40.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 440.0,
+        "y": 760.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 440.0,
+        "y": 680.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 440.0,
+        "y": 600.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 440.0,
+        "y": 520.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 440.0,
+        "y": 440.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 440.0,
+        "y": 360.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 440.0,
+        "y": 280.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 440.0,
+        "y": 200.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 440.0,
+        "y": 120.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 440.0,
+        "y": 40.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 360.0,
+        "y": 760.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 360.0,
+        "y": 680.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 360.0,
+        "y": 600.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 360.0,
+        "y": 520.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 360.0,
+        "y": 440.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 360.0,
+        "y": 360.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 360.0,
+        "y": 280.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 360.0,
+        "y": 200.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 360.0,
+        "y": 120.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 360.0,
+        "y": 40.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 280.0,
+        "y": 760.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 280.0,
+        "y": 680.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 280.0,
+        "y": 600.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 280.0,
+        "y": 520.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 280.0,
+        "y": 440.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 280.0,
+        "y": 360.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 280.0,
+        "y": 280.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 280.0,
+        "y": 200.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 280.0,
+        "y": 120.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 280.0,
+        "y": 40.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 200.0,
+        "y": 760.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 200.0,
+        "y": 680.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 200.0,
+        "y": 600.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 200.0,
+        "y": 520.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 200.0,
+        "y": 440.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 200.0,
+        "y": 360.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 200.0,
+        "y": 280.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 200.0,
+        "y": 200.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 200.0,
+        "y": 120.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 200.0,
+        "y": 40.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 120.0,
+        "y": 760.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 120.0,
+        "y": 680.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 120.0,
+        "y": 600.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 120.0,
+        "y": 520.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 120.0,
+        "y": 440.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 120.0,
+        "y": 360.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 120.0,
+        "y": 280.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 120.0,
+        "y": 200.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 120.0,
+        "y": 120.0
+      },
+      "tile_type": 0
+    },
+    {
+      "position": {
+        "x": 120.0,
+        "y": 40.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 40.0,
+        "y": 760.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 40.0,
+        "y": 680.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 40.0,
+        "y": 600.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 40.0,
+        "y": 520.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 40.0,
+        "y": 440.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 40.0,
+        "y": 360.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 40.0,
+        "y": 280.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 40.0,
+        "y": 200.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 40.0,
+        "y": 120.0
+      },
+      "tile_type": 2
+    },
+    {
+      "position": {
+        "x": 40.0,
+        "y": 40.0
+      },
+      "tile_type": 2
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+    "unit_arr": [
+        {
+            "damage": 16,
+            "hp": 190,
+            "position": {
+                "x": 13,
+                "y": 6
+            },
+            "unit_type": 8
+        },
+        {
+            "damage": 32,
+            "hp": 70,
+            "position": {
+                "x": 13,
+                "y": 5
+            },
+            "unit_type": 7
+        },
+        {
+            "damage": 13,
+            "hp": 1020,
+            "position": {
+                "x": 13,
+                "y": 4
+            },
+            "unit_type": 6
+        },
+        {
+            "damage": 12,
+            "hp": 190,
+            "position": {
+                "x": 13,
+                "y": 3
+            },
+            "unit_type": 5
+        }
+    ]
+}
