@@ -1,3 +1,5 @@
+> Project Working Time period: Jan-Apr 2021
+
 # Video Game Programming Project: AlphaGo Away
 
 ## Team Members:
